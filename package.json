@@ -1,10 +1,12 @@
 {
   "name": "xiaohui-management-software",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A management software",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "electron": "^6.0.10"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
