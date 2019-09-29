@@ -2,7 +2,7 @@
   "name": "xiaohui-management-software",
   "version": "0.1.0",
   "description": "A management software",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {},
   "devDependencies": {
     "electron": "^6.0.10"
