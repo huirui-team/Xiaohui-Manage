@@ -9,7 +9,7 @@
     "travis-ci": "^2.2.0"
   },
   "scripts": {
-    "test": "travis-ci .",
+    "test": "node main.js",
     "start": "electron ."
   },
   "repository": {
