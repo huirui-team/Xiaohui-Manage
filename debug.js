@@ -28,4 +28,3 @@ function createWindow () {
     win = null
   })
 }
-exit;
