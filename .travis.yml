@@ -1,7 +1,0 @@
-os: windows
-language: node_js
-node_js:
- - node
- after_failure:
-  - echo "test failed" 
-  - exit 1

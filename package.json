@@ -5,8 +5,7 @@
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^6.0.10",
-    "travis-ci": "^2.2.0"
+    "electron": "^6.0.10"
   },
   "scripts": {
     "test": "node debug.js",
