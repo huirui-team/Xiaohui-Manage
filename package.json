@@ -5,7 +5,8 @@
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^6.0.10",
+    "gulp": "^4.0.2"
   },
   "scripts": {
     "test": "node debug.js",
