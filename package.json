@@ -5,10 +5,11 @@
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^6.0.10",
+    "travis-ci": "^2.2.0"
   },
   "scripts": {
-    "test": "exit 0",
+    "test": "travis-ci .",
     "start": "electron ."
   },
   "repository": {
