@@ -5,6 +5,7 @@
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
+    "del": "^5.1.0",
     "electron": "^6.0.10",
     "gulp": "^4.0.2",
     "gulp-stylus": "^2.7.0",
