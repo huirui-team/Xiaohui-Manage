@@ -11,7 +11,10 @@ function createWindow () {
     height: 600,
     webPreferences: {
       nodeIntegration: true
-    }
+    },
+    frame: true,
+    center: true
+
   })
 
   // 加载index.html文件
