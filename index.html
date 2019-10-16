@@ -3,10 +3,15 @@
     <head>
         <meta charset="utf-8">
         <title>XiaoHui Manage</title>
-        <link rel="stylesheet" href="/css/main.css">
-        <link rel="icon" size="32x32" href="/images/favicon.png">
+        <link rel="stylesheet" href="./css/main.css" type="text/css">
     </head>
     <body>
-        <h1 class="Title">Welcome</h1>
+        <h1 id="Title">Welcome to Xiaohui-Manage!</h1>
+        <form action="user-information.php" method="POST">
+        用户名：<input type="text" name="username"><br>
+        密码：<input type="text" name="password"><br>
+        Email：<input type="text" name="email"><br>
+        <input type="submit" value="提交">
+        </form>
     </body>
 </html>
