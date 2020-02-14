@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "del": "^5.1.0",
-    "electron": "^6.0.11",
+    "electron": "^8.0.1",
     "electron-packager": "^14.0.6",
     "gulp": "^4.0.2",
     "gulp-stylus": "^2.7.0",
